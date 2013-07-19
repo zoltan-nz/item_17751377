@@ -1,4 +1,5 @@
 Item17751377::Application.routes.draw do
+  root 'items#index'
   resources :items
 
   # The priority is based upon order of creation: first created -> highest priority.
