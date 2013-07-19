@@ -19,4 +19,4 @@ pickle-email-*.html
 /db/*.sqlite3-journal
 /log/*.log
 /tmp
-.idea
+/.idea
